@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+.weather-app {
+  border: 5px solid grey;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+.list {
+  list-style-type: none;
+}
+.current {
+  background-color: lightseagreen;
+  border-color: lightseagreen;
+}
